@@ -60,6 +60,12 @@ a {
     height: 150px;
     border-radius: 50% ;
   }
+  @media screen and (min-width:1000px) {
+    .portfoloi__container {
+        margin-inline: 18rem;
+    }
+  }
+
 .portfoloi {
  text-align: center;
   margin-top: 5rem;
